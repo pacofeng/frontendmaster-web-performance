@@ -7,7 +7,7 @@ https://gist.github.com/stevekinney/fe401ffb8b2b7279e56dd165b272f0c3
 
 ## JavaScript performance
 * Overview
-
+![Test Image 1](https://github.com/pacofeng/frontendmaster-web-performance/blob/master/AF5324F0-964B-420B-8B31-E45A9BB9741C.png)
 * Most browsers use just-in-time (JIT) compilation: it happens moments before execution on client’s machine
 * Parsing:
     * Two parsing phases
@@ -57,7 +57,7 @@ for (let i = 0; i < 5; i++) {
 
 ## Rendering performance
 * Overview:
-
+![Test Image 1](https://github.com/pacofeng/frontendmaster-web-performance/blob/master/901B2011-92E7-4E68-9711-ADD86E95ABE1.png)
 * Render tree:
     * It has a one-to-one mapping with the visible objects on the page
         * No hidden object (display: none)
